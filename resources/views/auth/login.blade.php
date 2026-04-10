@@ -15,11 +15,6 @@
 <div style="text-align:center;margin-top:1.2rem;font-size:.88rem;color:var(--gris)">
 Pas encore de compte ? <a href="{{ route('register') }}" style="color:var(--vert);font-weight:600">S'inscrire</a>
 </div>
-<div style="margin-top:1.5rem;padding:1rem;background:var(--clair);border-radius:8px;font-size:.82rem;color:var(--gris)">
-<strong style="color:var(--sombre)">Comptes de test :</strong><br>
-
-Client : client@recrutcm.cm / client123
-</div>
 </div>
 </div>
 </div>
